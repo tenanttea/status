@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1427,
     "timeDay": 0,
-    "timeWeek": 1729,
+    "timeWeek": 0,
     "timeMonth": 1427,
     "timeYear": 1427,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1116,
     "timeDay": 0,
-    "timeWeek": 1454,
+    "timeWeek": 0,
     "timeMonth": 1116,
     "timeYear": 1116,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 816,
     "timeDay": 0,
-    "timeWeek": 1008,
+    "timeWeek": 0,
     "timeMonth": 816,
     "timeYear": 816,
     "dailyMinutesDown": {}
@@ -58,17 +58,17 @@
     "url": "https://rentr-api-dev.fly.dev/ws/notifications/",
     "icon": "https://icons.duckduckgo.com/ip3/rentr-api-dev.fly.dev.ico",
     "slug": "web-socket-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 375,
-    "timeWeek": 339,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "time": 295,
+    "timeDay": 274,
+    "timeWeek": 325,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   }
 ]
